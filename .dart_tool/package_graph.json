@@ -39,6 +39,7 @@
       "version": "1.0.0+1",
       "dependencies": [
         "cupertino_icons",
+        "flame",
         "flutter",
         "my_game_client",
         "serverpod_auth_idp_flutter",
@@ -178,6 +179,17 @@
         "serverpod_auth_core_flutter",
         "serverpod_auth_idp_client",
         "sign_in_with_apple"
+      ]
+    },
+    {
+      "name": "flame",
+      "version": "1.35.1",
+      "dependencies": [
+        "collection",
+        "flutter",
+        "meta",
+        "ordered_set",
+        "vector_math"
       ]
     },
     {
@@ -570,6 +582,11 @@
       "dependencies": [
         "flutter"
       ]
+    },
+    {
+      "name": "ordered_set",
+      "version": "8.0.0",
+      "dependencies": []
     },
     {
       "name": "yaml",

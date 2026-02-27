@@ -200,6 +200,12 @@
       "languageVersion": "3.1"
     },
     {
+      "name": "flame",
+      "rootUri": "file:///home/xM1haix/.pub-cache/hosted/pub.dev/flame-1.35.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.8"
+    },
+    {
       "name": "flutter",
       "rootUri": "file:///home/xM1haix/development/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -486,6 +492,12 @@
       "rootUri": "file:///home/xM1haix/.pub-cache/hosted/pub.dev/objective_c-9.3.0",
       "packageUri": "lib/",
       "languageVersion": "3.10"
+    },
+    {
+      "name": "ordered_set",
+      "rootUri": "file:///home/xM1haix/.pub-cache/hosted/pub.dev/ordered_set-8.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.6"
     },
     {
       "name": "package_config",
