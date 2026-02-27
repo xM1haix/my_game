@@ -1,0 +1,13 @@
+name: _
+publish_to: none
+
+environment:
+  sdk: '^3.8.0'
+
+workspace:
+  - my_game_client
+  - my_game_server
+  - my_game_flutter
+dependency_overrides:
+  flutter_secure_storage: ^10.0.0
+
